@@ -1,0 +1,36 @@
+body{
+    background-color: #333533 ;
+    color: #a2d2ff ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+    text-transform: uppercase;
+    color:#8338ec ;
+}
+img{
+    width: 400px;
+    border-radius: 8px;
+   
+}
+h2{
+  
+    color: #f15bb5;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.movie b{
+    color: rgb(255, 255, 0) ;
+}
+a{
+    font-size: 22px;
+    color: red;
+}
+span{
+    color: #FFF;
+    background-color: black;
+    font-style: italic;
+}
